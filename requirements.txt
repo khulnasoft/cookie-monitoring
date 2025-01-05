@@ -1,0 +1,2 @@
+khulnasoft==0.1.25
+mypy==1.13.0
